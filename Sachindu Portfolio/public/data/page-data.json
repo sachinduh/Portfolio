@@ -1,0 +1,128 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "sachinduhimsara06@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:sachinduhimsara06@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+94 74 256 3224",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+94742563224"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/sachindu-h-mendis-93666426b"
+      },
+      {
+        "platform": "cv",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "/Sachindu_Himsara_Resume.pdf"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "BSc (Hons) in Industrial Information Technology (2024 - Present)",
+        "institution": "Uva Wellassa University of Sri Lanka",
+        "description": "Undergraduate degree program combining information technology, software engineering principles, and user-centered design methodologies to build robust digital solutions."
+      },
+      {
+        "title": "IBM UI/UX Design Capstone Certificate",
+        "institution": "Authorized by IBM · Coursera",
+        "description": "Applying UI/UX Design in the Real World — hands-on user research, wireframing, component architecture, and interactive prototyping.",
+        "link": "https://coursera.org/verify/ANS9YS7UW95W"
+      }
+    ],
+    "skillGroups": [
+      {
+        "category": "UX Research",
+        "description": "Investigating user needs, mental models, and pain points",
+        "skills": [
+          "User Interviews (15-participant study for SafeGuard)",
+          "Survey Design & Problem Framing",
+          "Information Hierarchy & Task Flows",
+          "Usability Evaluation & Insight Synthesis"
+        ]
+      },
+      {
+        "category": "UI Design",
+        "description": "Building clean, accessible, and structured digital products",
+        "skills": [
+          "Low-to-High Fidelity Wireframing",
+          "Responsive Web & Mobile UI",
+          "Visual Design Systems & Spacing Rules",
+          "Typography, Color Theory & Contrast Accessibility"
+        ]
+      },
+      {
+        "category": "Prototyping",
+        "description": "Translating static interfaces into interactive experiences",
+        "skills": [
+          "Interactive Figma Clickable Prototypes",
+          "Smart Animate & Micro-interactions",
+          "Mobile Navigation & Gesture Flows",
+          "Iterative Flow Walkthroughs"
+        ]
+      },
+      {
+        "category": "Tools",
+        "description": "Industry tools utilized in daily design workflows",
+        "skills": [
+          "Figma (Auto Layout, Components, Variants, Styles)",
+          "FigJam (Mapping & Ideation)",
+          "HTML5 & CSS3 Fundamentals (Dev Handoff)",
+          "Adobe Creative Suite (Basics)"
+        ]
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Email Me",
+        "href": "mailto:sachinduhimsara06@gmail.com",
+        "badge": "sachinduhimsara06@gmail.com"
+      },
+      {
+        "title": "Download CV (PDF)",
+        "href": "/Sachindu_Himsara_Resume.pdf",
+        "badge": "Resume"
+      },
+      {
+        "title": "LinkedIn Profile",
+        "href": "https://www.linkedin.com/in/sachindu-h-mendis-93666426b",
+        "badge": "sachindu-h-mendis"
+      },
+      {
+        "title": "Behance Profile",
+        "href": "https://www.behance.net/sachinduhimsara",
+        "badge": "sachinduhimsara"
+      },
+      {
+        "title": "SafeGuard Case Study",
+        "href": "/safeguard/",
+        "badge": "Featured Project"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "sachinduhimsara06@gmail.com",
+        "link": "mailto:sachinduhimsara06@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+94 74 256 3224",
+        "link": "tel:+94742563224"
+      }
+    ]
+  }
+}

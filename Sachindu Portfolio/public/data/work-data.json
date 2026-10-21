@@ -1,0 +1,41 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/safealert-work-img.jpg",
+      "title": "SafeGuard — Smart Emergency Response App",
+      "client": "Pixel Perfect Competition",
+      "category": "Mobile UI/UX · User research · Prototyping",
+      "description": "A smart emergency response application designed around user needs in emergency situations.",
+      "slug": "/safeguard/",
+      "figma": "https://www.figma.com/proto/fdQcXYYFvwWSUfl4nzQ8Qc/Smart-Emergency-Response-App?node-id=19-660&starting-point-node-id=19%3A660&t=pnqHd8ZduTAa9To3-1"
+    },
+    {
+      "image": "/images/work/expenses-work-img.jpg",
+      "title": "Expenses App — Personal Finance Tracker",
+      "client": "Expenses App — Mobile App Design Project",
+      "category": "Mobile UI · Financial tracking · Data visualization",
+      "description": "An expense-tracking interface for organizing transactions and presenting spending information.",
+      "slug": "https://www.behance.net/gallery/257415005/Expenses-Personal-Finance-Mobile-App-UIUX-Design",
+      "behance": "https://www.behance.net/gallery/257415005/Expenses-Personal-Finance-Mobile-App-UIUX-Design",
+      "figma": "https://www.figma.com/design/uP4YaWN7kxskOxKzVIOzUP/Expenses-App?node-id=0-1&t=yc9jEyKh4RntkgUb-1"
+    },
+    {
+      "image": "/images/work/landingpage-work-img.jpg",
+      "title": "MS Club UWU — Community Landing Page",
+      "client": "MS Club UWU (Campus Web Project)",
+      "category": "Web UI/UX · Information hierarchy · Responsive design",
+      "description": "A university club landing page presenting events, learning resources and community information.",
+      "slug": "https://www.figma.com/design/8lvBKguAU48K2rRaGNCBAm/landing-page?node-id=0-1&t=SqhbCg7zrpSUsH8G-1",
+      "figma": "https://www.figma.com/design/8lvBKguAU48K2rRaGNCBAm/landing-page?node-id=0-1&t=SqhbCg7zrpSUsH8G-1"
+    },
+    {
+      "image": "/images/work/careremind-work-img.jpg",
+      "title": "CareRemind — Hospital Appointment Reminder App",
+      "client": "Healthcare UI/UX Project",
+      "category": "Mobile UI/UX · Healthcare Accessibility · User Flow",
+      "description": "A patient-centric appointment tracker and schedule reminder system designed to prevent missed clinic consultations.",
+      "slug": "https://www.figma.com/design/DrM2AJPsUETYuJAF5OGsle/Care-Remind?node-id=0-1&t=m3U4Rs0LMdX7NscY-1",
+      "figma": "https://www.figma.com/design/DrM2AJPsUETYuJAF5OGsle/Care-Remind?node-id=0-1&t=m3U4Rs0LMdX7NscY-1"
+    }
+  ]
+}
