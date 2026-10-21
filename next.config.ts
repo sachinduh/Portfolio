@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
 
 const nextConfig: NextConfig = {
-  output: "export",
+  ...(process.env.NEXT_EXPORT === "true" ? { output: "export" as const } : {}),
   basePath,
   assetPrefix: basePath,
   images: {
